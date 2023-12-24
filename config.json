@@ -1,0 +1,25 @@
+{
+    "button": {
+        "type": "Flic",
+        "id": "your_button_id"
+    },
+    "crm": {
+        "type": "Salesforce",
+        "api_key": "your_crm_api_key",
+        "user_id": "your_crm_user_id"
+    },
+    "calendar": {
+        "type": "Google",
+        "api_key": "your_calendar_api_key",
+        "user_id": "your_calendar_user_id"
+    },
+    "email": {
+        "type": "Gmail",
+        "api_key": "your_email_api_key",
+        "user_id": "your_email_user_id"
+    },
+    "feedback_request_template": {
+        "subject": "We value your feedback",
+        "body": "Dear {name},\n\nThank you for your recent interaction with us. We would appreciate it if you could take a few moments to provide us with your valuable feedback.\n\nBest Regards,\nYour Name"
+    }
+}
